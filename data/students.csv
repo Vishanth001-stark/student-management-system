@@ -1,0 +1,6 @@
+RollNumber,Name,Email,ContactNumber,Course,Semester,AttendancePercentage,SubjectMarks
+25JUCS001,Vishanth R,vishantra@gmail.com,+919677730223,B.Tech CSE (AI & DE),2,88.5,Data Structures & Algorithms:89.0;Database Management Systems:86.0;Object-Oriented Programming (Java):94.0;Discrete Mathematics:82.0;Computer System Architecture:85.0
+25JUCS002,Aarav Sharma,aarav.sharma@example.com,+919811223344,B.Tech CSE (AI & DE),2,91.0,Data Structures & Algorithms:92.0;Database Management Systems:90.0;Object-Oriented Programming (Java):88.0;Discrete Mathematics:87.0;Computer System Architecture:91.0
+25JUCS003,Priya Nair,priya.nair@example.com,+919744556677,B.Tech CSE (AI & DE),2,72.0,Data Structures & Algorithms:74.0;Database Management Systems:71.0;Object-Oriented Programming (Java):78.0;Discrete Mathematics:68.0;Computer System Architecture:70.0
+25JUCS004,Rohan Verma,rohan.v@example.com,+919633221100,B.Tech CSE (Data Science),2,65.5,Data Structures & Algorithms:62.0;Database Management Systems:58.0;Object-Oriented Programming (Java):65.0;Discrete Mathematics:55.0;Computer System Architecture:60.0
+25JUCS005,Ananya Iyer,ananya.iyer@example.com,+919877889900,B.Tech CSE (AI & DE),2,95.0,Data Structures & Algorithms:96.0;Database Management Systems:94.0;Object-Oriented Programming (Java):98.0;Discrete Mathematics:92.0;Computer System Architecture:95.0
